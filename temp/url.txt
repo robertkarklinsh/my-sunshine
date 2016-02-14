@@ -1,0 +1,1 @@
+http://api.openweathermap.org/data/2.5/forecast/daily?id=524894&cnt=7&mode=json&units=metric&APPID=c171b9fd9e0e4c40deaa80c15ee6ec06
