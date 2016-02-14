@@ -39,11 +39,11 @@ import java.util.List;
 /**
  * Encapsulates fetching the forecast and displaying it as a {@link ListView} layout.
  */
-public class ForecastFragment_test extends Fragment {
+public class ForecastFragment extends Fragment {
 
-    ArrayAdapter<String> mForecastAda
+    ArrayAdapter<String> mForecastAdapter;
 
-    public ForecastFragment_test() {
+    public ForecastFragment() {
     }
 
     @Override
